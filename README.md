@@ -9,9 +9,9 @@
 ### Goal 
 At least 3 questions per day on weekdays. (Above Mediums)
 
-Saturday is basketball day. Lazy allowed. (Maybe some Easys with at least one Medium)
+Saturday is basketball day. (Maybe some Easys with at least one Medium)
 
-Sunday is sleeping day. Lazy allowed. (Maybe some Easys with at least one Medium)
+Sunday is sleeping day. (Maybe some Easys with at least one Medium)
 
 ### July
 
