@@ -9,9 +9,9 @@
 ### Goal 
 At least 2-3 questions per day on weekdays. (Above Mediums)
 
-Saturday is basketball day. (Maybe 2 Easys or 1 Medium)
+Saturday is basketball day.
 
-Sunday is sleeping day. (Maybe 2 Easys or 1 Medium)
+Sunday is sleeping day.
 
 ### July
 
