@@ -7,7 +7,11 @@
 不能吃零食 
 
 ### Goal 
-At least 3 questions per day on weekdays and 2 questions per day on weekends
+At least 3 questions per day on weekdays. (Above Mediums)
+
+Saturday is basketball day. Lazy allowed. (Maybe some Easys with at least one Medium)
+
+Sunday is sleeping day. Lazy allowed. (Maybe some Easys with at least one Medium)
 
 ### July
 
