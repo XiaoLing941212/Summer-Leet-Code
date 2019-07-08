@@ -7,7 +7,7 @@
 不能吃零食 
 
 ### Goal 
-At least 2 questions per day on weekdays. (Above Mediums)
+At least 2-3 questions per day on weekdays. (Above Mediums)
 
 Saturday is basketball day. (Maybe 2 Easys or 1 Medium)
 
