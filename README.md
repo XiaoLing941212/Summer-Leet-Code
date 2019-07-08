@@ -1,10 +1,13 @@
 # Summer-LeetCode(这次绝对不能偷懒了)
 2019 Summer LeetCode
 
-### 惩罚
+### Punishment
 偷一天懒
 就罚一天
-不能吃零食
+不能吃零食 
+
+### Goal 
+At least 3 questions per day on weekdays and 2 questions per day on weekends
 
 ### July
 
