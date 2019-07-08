@@ -6,7 +6,8 @@
 就罚一天
 不能吃零食
 
-July
+### July
+
 | Sun(lazy allowed) | Mon | Tue | Wed | Thr | Fri | Sat(lazy allowed) |
 | ----------------- | --- | --- | --- | --- | --- | ----------------- |
 |     let it go     |  8  |  9  |  10 |  11 |  12 |        13         |
