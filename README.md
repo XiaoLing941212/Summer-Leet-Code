@@ -13,6 +13,11 @@ Saturday is basketball day.
 
 Sunday is sleeping day.
 
+### Type and Question #
+DP:
+Stack:
+Recursive:
+
 ### July
 
 |   Sun   | Mon | Tue | Wed | Thr | Fri | Sat |
