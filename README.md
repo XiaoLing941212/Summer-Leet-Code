@@ -14,18 +14,20 @@ Saturday is basketball day.
 Sunday is sleeping day.
 
 ### Types and Questions
-DP:
+DP: 516, 221
 
-Stack:
+Stack: 1047
 
-Recursive:
+Recursive: 357
+
+Back Track: 93
 
 ### July
 
 |   Sun   | Mon | Tue | Wed | Thr | Fri | Sat |
 |---------|-----|-----|-----|-----|-----|-----|
 |let it go|  8  |  9  |  10 |  11 |  12 |  13 |
-|         |+2 :star: |     |     |     |     |     |
+|         |+2:star:|+3:star:|     |     |     |     |
 |    14   |  15 |  16 |  17 |  18 |  19 |  20 |
 |         |     |     |     |     |     |     |
 |    21   |  22 |  23 |  24 |  25 |  26 |  27 |
