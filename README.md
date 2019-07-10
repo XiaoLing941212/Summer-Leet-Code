@@ -9,9 +9,9 @@
 ### Goal 
 At least 2-3 questions per day on weekdays.
 
-Saturday is basketball day.
+Saturday is basketball day. :basketball:
 
-Sunday is sleeping day.
+Sunday is sleeping day. :zzz:
 
 ### Types and Questions
 DP: 516, 221
