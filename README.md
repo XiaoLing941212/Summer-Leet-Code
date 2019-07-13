@@ -26,12 +26,14 @@ DFS: 416, 47, 404
 
 Two Pointer: 86, 581
 
+Prefix Sum: 848
+
 ### July
 
 |   Sun   | Mon | Tue | Wed | Thr | Fri | Sat |
 |---------|-----|-----|-----|-----|-----|-----|
 |let it go|  8  |  9  |  10 |  11 |  12 |  13 |
-|         |+2:star:|+3:star:|+3:star:|+2:neutral_face:|     |     |
+|         |+2:star:|+3:star:|+3:star:|+2:neutral_face:|+1:cry:|     |
 |    14   |  15 |  16 |  17 |  18 |  19 |  20 |
 |         |     |     |     |     |     |     |
 |    21   |  22 |  23 |  24 |  25 |  26 |  27 |
