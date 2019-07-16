@@ -22,11 +22,13 @@ Recursive: 357
 
 BackTrack: 93
 
-DFS: 416, 47, 404
+DFS: 416, 47, 404, 257
 
 Two Pointer: 86, 581
 
 Prefix Sum: 848
+
+Brute-Force: 1014, 692
 
 ### July
 
