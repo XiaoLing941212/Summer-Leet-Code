@@ -14,7 +14,7 @@ Saturday is basketball day. :basketball:
 Sunday is sleeping day. :zzz:
 
 ### Types and Questions
-DP: 516, 221
+DP: 516, 221, 309, 474
 
 Stack: 1047
 
@@ -37,7 +37,7 @@ Brute-Force: 1014, 692
 |let it go|  8  |  9  |  10 |  11 |  12 |  13 |
 |         |+2:star:|+3:star:|+3:star:|+2:neutral_face:|+1:cry:|(懒)|
 |    14   |  15 |  16 |  17 |  18 |  19 |  20 |
-|（懒）|+3:star:|+3:star:|     |     |     |     |
+|（懒）|+3:star:|+3:star:|+2:star:|     |     |     |
 |    21   |  22 |  23 |  24 |  25 |  26 |  27 |
 |         |     |     |     |     |     |     |
 |    28   |  29 |  30 |  31 |     |     |     |
