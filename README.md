@@ -30,6 +30,8 @@ Prefix Sum: 848
 
 Brute-Force: 1014, 692
 
+Heap: 378
+
 ### July
 
 |   Sun   | Mon | Tue | Wed | Thr | Fri | Sat |
@@ -37,7 +39,7 @@ Brute-Force: 1014, 692
 |let it go|  8  |  9  |  10 |  11 |  12 |  13 |
 |         |+2:star:|+3:star:|+3:star:|+2:neutral_face:|+1:cry:|(懒)|
 |    14   |  15 |  16 |  17 |  18 |  19 |  20 |
-|（懒）|+3:star:|+3:star:|+2:star:|+0（病号）|     |     |
+|（懒）|+3:star:|+3:star:|+2:star:|+0（病号）|+1:cry:|     |
 |    21   |  22 |  23 |  24 |  25 |  26 |  27 |
 |         |     |     |     |     |     |     |
 |    28   |  29 |  30 |  31 |     |     |     |
