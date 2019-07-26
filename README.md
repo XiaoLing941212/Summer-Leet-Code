@@ -16,15 +16,15 @@ Sunday is sleeping day. :zzz:
 ### Types and Questions
 DP: 516, 221, 309, 474
 
-Stack: 1047
+Stack: 1047, 224
 
-Recursive: 357
+Recursive: 357, 464
 
 BackTrack: 93
 
 DFS: 416, 47, 404, 257, 200
 
-Two Pointer: 86, 581
+Two Pointer: 86, 581, 203
 
 Prefix Sum: 848
 
@@ -41,6 +41,6 @@ Heap: 378
 |    14   |  15 |  16 |  17 |  18 |  19 |  20 |
 |（懒）|+3:star:|+3:star:|+2:star:|+0（病号）|+1:cry:|(甜)|
 |    21   |  22 |  23 |  24 |  25 |  26 |  27 |
-|（甜）|+1:cry:|...|...|     |     |     |
+|（甜）|+1:cry:|...|...|+3:star:|     |     |
 |    28   |  29 |  30 |  31 |     |     |     |
 |         |     |     |     |     |     |     |
