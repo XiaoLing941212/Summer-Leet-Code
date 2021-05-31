@@ -11,7 +11,7 @@ At least 2-3 questions per day on weekdays.
 
 Saturday is basketball day. :basketball:
 
-Sunday is sleeping day. :zzz:
+Sunday is sleeping day. :zzzzzz:
 
 ### Types and Questions
 DP: 516, 221, 309, 474, 1027
